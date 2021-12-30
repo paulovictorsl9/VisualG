@@ -1,19 +1,14 @@
-Algoritmo "Minutos excedentes"
-// Disciplina  :  [Linguagem e Lógica de Programação] 
-// Professor   : Antonio Carlos Nicolodi 
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 11/02/2020
 Var
-// Seção de Declarações das variáveis 
+// SeÃ§Ã£o de DeclaraÃ§Ãµes das variÃ¡veis 
 planobasico : real
 minutosGastos : real
 franquia : real
 excedente : real
 valorAPagar : real
+
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
-escreva("Valor do plano básico: ")
+// SeÃ§Ã£o de Comandos, procedimento, funÃ§Ãµes, operadores, etc... 
+escreva("Valor do plano bÃ¡sico: ")
 leia(planobasico)
 escreval("Franquia = 100 minutos")
 escreva("Minutos Consumidos: ")
